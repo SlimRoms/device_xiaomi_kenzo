@@ -34,6 +34,24 @@
       "revId": "fdf074a855d8d5ef0a3c0dbd675c2be7a35b9a0c",
       "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aade967_b7f087ca",
+        "filename": "overlay/frameworks/opt/slim/res/res/values/config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2017-01-04T15:49:14Z",
+      "side": 1,
+      "message": "Actually why not add this it the common repo? Shouldn\u0027t other xiaomi devices have same setup?",
+      "parentUuid": "7aade967_3741f70b",
+      "revId": "fdf074a855d8d5ef0a3c0dbd675c2be7a35b9a0c",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
     }
   ]
 }
