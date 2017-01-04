@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aade967_d7bae309",
+        "filename": "overlay/frameworks/opt/slim/res/res/values/config.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000131
+      },
+      "writtenOn": "2017-01-04T14:53:08Z",
+      "side": 1,
+      "message": "probably need 19 here",
+      "revId": "fdf074a855d8d5ef0a3c0dbd675c2be7a35b9a0c",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
